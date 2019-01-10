@@ -2,7 +2,7 @@
 
 /** Class Task 
  *  To store a String job and its integer priority
- *  
+ *  @author Saveri Pal
 **/
 class Task
 {
